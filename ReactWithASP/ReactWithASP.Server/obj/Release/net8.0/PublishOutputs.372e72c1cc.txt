@@ -1,0 +1,12 @@
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.exe
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.dll
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.deps.json
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.runtimeconfig.json
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.pdb
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rifaa\source\repos\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

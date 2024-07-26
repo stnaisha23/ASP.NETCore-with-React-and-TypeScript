@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "Hash": "EJeBTq2Nd3KVMOJ+riE4++52Pjjafmx+pgyQYsP60vc=",
+  "Source": "ReactWithASP.Server",
+  "BasePath": "_content/ReactWithASP.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\rifaa\\source\\repos\\ReactWithASP\\reactwithasp.client\\reactwithasp.client.esproj",
+      "Version": 2,
+      "Source": "reactwithasp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReactWithASP.Server\\wwwroot",
+      "Source": "ReactWithASP.Server",
+      "ContentRoot": "C:\\Users\\rifaa\\source\\repos\\ReactWithASP\\ReactWithASP.Server\\wwwroot\\",
+      "BasePath": "_content/ReactWithASP.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

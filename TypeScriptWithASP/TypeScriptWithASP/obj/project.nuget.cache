@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLXVGK8fgcg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rifaa\\source\\repos\\TypeScriptWithASP\\TypeScriptWithASP\\TypeScriptWithASP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rifaa\\.nuget\\packages\\microsoft.typescript.msbuild\\5.5.3\\microsoft.typescript.msbuild.5.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
